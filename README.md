@@ -2,6 +2,26 @@
 
 ## Style Guide
 
-We follow the [ruby community style guide](https://github.com/bbatsov/ruby-style-guide).
+https://github.com/bbatsov/ruby-style-guide
 
-We use [tooling](https://github.com/bbatsov/rubocop) to make it simple to ensure teams enforce the style guide.
+https://github.com/bbatsov/rubocop
+
+https://github.com/backus/rubocop-rspec
+
+## Code Quality
+
+https://github.com/troessner/reek
+
+## Code Coverage
+
+https://github.com/colszowka/simplecov
+
+## Security
+
+https://github.com/rubysec/bundler-audit
+
+https://github.com/presidentbeef/brakeman
+
+## Performance
+
+https://github.com/flyerhzm/bullet
