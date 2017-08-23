@@ -8,7 +8,7 @@ Uniformity allows us to onboard developers and move across teams with ease.
 
 ## Tooling
 
-> [Rubocop](https://github.com/bbatsov/rubocop) helps ensure adherence for our ruby code and [Rubocop-RSpec](https://github.com/backus/rubocop-rspec) covers our tests.
+> [Rubocop](https://github.com/bbatsov/rubocop) helps ensure adherence for our ruby code. Consider also using [Rubocop-RSpec](https://github.com/backus/rubocop-rspec) covers our tests.
 
 We use tooling to make adherence easier.
 
