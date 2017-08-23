@@ -14,3 +14,8 @@ We use tooling to make adherence easier.
 
 Note that running `rubocop -a` will automatically fix most style violations
 
+## Implementation
+
+* We will implment rubocop on each CI for every team not fail
+* auto ignore existing violations, tech debt
+* Build a common ignore list our own style guide
