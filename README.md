@@ -4,13 +4,13 @@ This is how we work and live our craft.
 
 ## Code Reviews
 
-> We use [Github Pull Requests](https://help.github.com/articles/about-pull-requests/) to drive face-to-face code reviews. Everyone should have equal authority to approve or recommend changes to a pull request.
+> We use [Github Pull Requests](https://help.github.com/articles/about-pull-requests/) to drive code reviews. Everyone should have equal authority to approve or recommend changes to a pull request.
 
 We believe that code reviews are an essential tool for keeping code quality high.
 
 Everything we do gets code reviewed. We use Github, and have pull requests be the only way that code gets into our repository.
 
-The essentials include a face-to-face review of the code, and an expectation that we will discuss both style and approach, in addition to syntax, structure, and other mechanics.
+The essentials include a review of the code by a non-contributor, and an expectation that we will discuss both style and approach, in addition to syntax, structure, and other mechanics.
 
 ## Coding Style
 
