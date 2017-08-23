@@ -19,3 +19,4 @@ Note that running `rubocop -a` will automatically fix most style violations
 * We will implment rubocop on each CI for every team not fail
 * auto ignore existing violations, tech debt
 * Build a common ignore list our own style guide
+* Ryan to go to each team and help get setup with CI and PR status output
