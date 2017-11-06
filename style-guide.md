@@ -10,7 +10,7 @@ Uniformity allows us to onboard developers and move across teams with ease.
 
 > [Rubocop](https://github.com/bbatsov/rubocop) helps ensure adherence for our ruby code. Consider also using [Rubocop-RSpec](https://github.com/backus/rubocop-rspec) covers our tests.
 
-We use tooling to make adherence easier.
+We use tooling to make adherence easier. We store our rubocop global configuration in [https://github.com/octanner/oct-rubocop](https://github.com/octanner/oct-rubocop)
 
 Note that running `rubocop -a` will automatically fix most style violations
 
