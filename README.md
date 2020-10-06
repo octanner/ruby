@@ -1,3 +1,5 @@
+# Deprecated: See https://confluence.octanner.com/confluence/display/RG/Standards for current standards
+
 # The Practice of Ruby @ OCTanner
 
 This is how we work and live our craft.
